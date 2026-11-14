@@ -1,4 +1,4 @@
-# WorkSync AI â€” Intelligent Workforce Scheduling & Leave Management
+# WorkSync AI - Intelligent Workforce Scheduling & Leave Management
 
 WorkSync AI is a complete, three-tier workforce-management application that
 combines leave requests, shift coverage, employee skills, availability and labour
