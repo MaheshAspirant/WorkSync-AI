@@ -1,0 +1,182 @@
+[
+  {
+    "skill_id": "SKL-001",
+    "name": "Customer Handling",
+    "category": "Customer Service",
+    "description": "Synthetic customer service skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-002",
+    "name": "POS Operation",
+    "category": "Retail",
+    "description": "Synthetic retail skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-003",
+    "name": "Inventory Management",
+    "category": "Logistics",
+    "description": "Synthetic logistics skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-004",
+    "name": "Forklift Operation",
+    "category": "Logistics",
+    "description": "Synthetic logistics skill used for staffing coverage.",
+    "is_critical": true,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-005",
+    "name": "First Aid",
+    "category": "Safety",
+    "description": "Synthetic safety skill used for staffing coverage.",
+    "is_critical": true,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-006",
+    "name": "Fire Safety",
+    "category": "Safety",
+    "description": "Synthetic safety skill used for staffing coverage.",
+    "is_critical": true,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-007",
+    "name": "Quality Inspection",
+    "category": "Quality",
+    "description": "Synthetic quality skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-008",
+    "name": "Data Entry",
+    "category": "Systems",
+    "description": "Synthetic systems skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-009",
+    "name": "Excel Reporting",
+    "category": "Systems",
+    "description": "Synthetic systems skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-010",
+    "name": "SQL Reporting",
+    "category": "Systems",
+    "description": "Synthetic systems skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-011",
+    "name": "Network Support",
+    "category": "Technology",
+    "description": "Synthetic technology skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-012",
+    "name": "Hardware Repair",
+    "category": "Technology",
+    "description": "Synthetic technology skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-013",
+    "name": "Food Safety",
+    "category": "Compliance",
+    "description": "Synthetic compliance skill used for staffing coverage.",
+    "is_critical": true,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-014",
+    "name": "Manual Handling",
+    "category": "Safety",
+    "description": "Synthetic safety skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-015",
+    "name": "Team Leadership",
+    "category": "Leadership",
+    "description": "Synthetic leadership skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-016",
+    "name": "Conflict Resolution",
+    "category": "Customer Service",
+    "description": "Synthetic customer service skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-017",
+    "name": "Hindi Communication",
+    "category": "Language",
+    "description": "Synthetic language skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-018",
+    "name": "English Communication",
+    "category": "Language",
+    "description": "Synthetic language skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-019",
+    "name": "SAP",
+    "category": "Systems",
+    "description": "Synthetic systems skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "skill_id": "SKL-020",
+    "name": "Warehouse Management",
+    "category": "Logistics",
+    "description": "Synthetic logistics skill used for staffing coverage.",
+    "is_critical": false,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  }
+]

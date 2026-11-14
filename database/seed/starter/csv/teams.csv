@@ -1,0 +1,21 @@
+team_id,name,department,site,cost_center,timezone,is_active,created_at,updated_at
+TEAM-001,Operations Bengaluru 01,Operations,Bengaluru,CC-001,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-002,Customer Care Hyderabad 02,Customer Care,Hyderabad,CC-002,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-003,Logistics Pune 03,Logistics,Pune,CC-003,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-004,Retail Mumbai 04,Retail,Mumbai,CC-004,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-005,Fulfilment Chennai 05,Fulfilment,Chennai,CC-005,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-006,Technical Support Bengaluru 06,Technical Support,Bengaluru,CC-006,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-007,Quality Pune 07,Quality,Pune,CC-007,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-008,Finance Operations Hyderabad 08,Finance Operations,Hyderabad,CC-008,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-009,Operations Bengaluru 09,Operations,Bengaluru,CC-009,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-010,Customer Care Hyderabad 10,Customer Care,Hyderabad,CC-010,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-011,Logistics Pune 11,Logistics,Pune,CC-011,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-012,Retail Mumbai 12,Retail,Mumbai,CC-012,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-013,Fulfilment Chennai 13,Fulfilment,Chennai,CC-013,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-014,Technical Support Bengaluru 14,Technical Support,Bengaluru,CC-014,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-015,Quality Pune 15,Quality,Pune,CC-015,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-016,Finance Operations Hyderabad 16,Finance Operations,Hyderabad,CC-016,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-017,Operations Bengaluru 17,Operations,Bengaluru,CC-017,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-018,Customer Care Hyderabad 18,Customer Care,Hyderabad,CC-018,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-019,Logistics Pune 19,Logistics,Pune,CC-019,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-020,Retail Mumbai 20,Retail,Mumbai,CC-020,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Databases / generated artefacts
+backend/worksync.db
+backend/worksync.db-journal
+backend/test_worksync.db
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+artifacts/repro_run_a/
+artifacts/repro_run_b/
+artifacts/*_server.log
+data_generation/__pycache__/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# Env & editor
+.env
+.DS_Store
+.vscode/
+.idea/
+
+# Keep generated seed data and ground truth (deliverables), but not caches
+*.tmp

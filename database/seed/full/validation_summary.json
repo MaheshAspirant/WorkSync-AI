@@ -1,0 +1,632 @@
+{
+  "baseline": {
+    "mode": "baseline",
+    "checks": [
+      {
+        "name": "pk_unique:teams",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in teams",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:skills",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in skills",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:employees",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in employees",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:employee_skills",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in employee_skills",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:employee_availability",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in employee_availability",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:team_managers",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in team_managers",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:shift_templates",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in shift_templates",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:coverage_requirements",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in coverage_requirements",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:holiday_calendar",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in holiday_calendar",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:leave_policies",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in leave_policies",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:leave_requests",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in leave_requests",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:leave_approval_history",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in leave_approval_history",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:shifts",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in shifts",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:shift_assignments",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in shift_assignments",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:attendance_events",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in attendance_events",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:swap_requests",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in swap_requests",
+        "count": 0
+      },
+      {
+        "name": "pk_unique:swap_approval_history",
+        "status": "PASS",
+        "detail": "Duplicate primary key rows in swap_approval_history",
+        "count": 0
+      },
+      {
+        "name": "assignment_shift_employee_unique",
+        "status": "PASS",
+        "detail": "Duplicate (shift, employee) assignments",
+        "count": 0
+      },
+      {
+        "name": "employee_email_unique",
+        "status": "PASS",
+        "detail": "Duplicate employee emails",
+        "count": 0
+      },
+      {
+        "name": "fk:employees.team_id->teams.team_id",
+        "status": "PASS",
+        "detail": "Orphan employees.team_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:employee_skills.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan employee_skills.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:employee_skills.skill_id->skills.skill_id",
+        "status": "PASS",
+        "detail": "Orphan employee_skills.skill_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:employee_availability.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan employee_availability.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:team_managers.team_id->teams.team_id",
+        "status": "PASS",
+        "detail": "Orphan team_managers.team_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:team_managers.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan team_managers.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:coverage_requirements.team_id->teams.team_id",
+        "status": "PASS",
+        "detail": "Orphan coverage_requirements.team_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:coverage_requirements.shift_template_id->shift_templates.shift_template_id",
+        "status": "PASS",
+        "detail": "Orphan coverage_requirements.shift_template_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:coverage_requirements.skill_id->skills.skill_id",
+        "status": "PASS",
+        "detail": "Orphan coverage_requirements.skill_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:leave_requests.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan leave_requests.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:leave_requests.policy_id->leave_policies.policy_id",
+        "status": "PASS",
+        "detail": "Orphan leave_requests.policy_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:leave_approval_history.leave_id->leave_requests.leave_id",
+        "status": "PASS",
+        "detail": "Orphan leave_approval_history.leave_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:shifts.team_id->teams.team_id",
+        "status": "PASS",
+        "detail": "Orphan shifts.team_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:shifts.shift_template_id->shift_templates.shift_template_id",
+        "status": "PASS",
+        "detail": "Orphan shifts.shift_template_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:shift_assignments.shift_id->shifts.shift_id",
+        "status": "PASS",
+        "detail": "Orphan shift_assignments.shift_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:shift_assignments.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan shift_assignments.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:attendance_events.employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan attendance_events.employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:attendance_events.shift_id->shifts.shift_id",
+        "status": "PASS",
+        "detail": "Orphan attendance_events.shift_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:attendance_events.assignment_id->shift_assignments.assignment_id",
+        "status": "PASS",
+        "detail": "Orphan attendance_events.assignment_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:swap_requests.requester_employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan swap_requests.requester_employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:swap_requests.target_employee_id->employees.employee_id",
+        "status": "PASS",
+        "detail": "Orphan swap_requests.target_employee_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:swap_requests.requester_assignment_id->shift_assignments.assignment_id",
+        "status": "PASS",
+        "detail": "Orphan swap_requests.requester_assignment_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:swap_requests.target_assignment_id->shift_assignments.assignment_id",
+        "status": "PASS",
+        "detail": "Orphan swap_requests.target_assignment_id references",
+        "count": 0
+      },
+      {
+        "name": "fk:swap_approval_history.swap_id->swap_requests.swap_id",
+        "status": "PASS",
+        "detail": "Orphan swap_approval_history.swap_id references",
+        "count": 0
+      },
+      {
+        "name": "enum:employees.status",
+        "status": "PASS",
+        "detail": "Invalid status values in employees",
+        "count": 0
+      },
+      {
+        "name": "enum:employees.employment_type",
+        "status": "PASS",
+        "detail": "Invalid employment_type values in employees",
+        "count": 0
+      },
+      {
+        "name": "enum:employees.preferred_shift",
+        "status": "PASS",
+        "detail": "Invalid preferred_shift values in employees",
+        "count": 0
+      },
+      {
+        "name": "enum:shifts.status",
+        "status": "PASS",
+        "detail": "Invalid status values in shifts",
+        "count": 0
+      },
+      {
+        "name": "enum:shift_assignments.status",
+        "status": "PASS",
+        "detail": "Invalid status values in shift_assignments",
+        "count": 0
+      },
+      {
+        "name": "enum:shift_assignments.assignment_source",
+        "status": "PASS",
+        "detail": "Invalid assignment_source values in shift_assignments",
+        "count": 0
+      },
+      {
+        "name": "enum:leave_requests.leave_type",
+        "status": "PASS",
+        "detail": "Invalid leave_type values in leave_requests",
+        "count": 0
+      },
+      {
+        "name": "enum:leave_requests.status",
+        "status": "PASS",
+        "detail": "Invalid status values in leave_requests",
+        "count": 0
+      },
+      {
+        "name": "enum:attendance_events.status",
+        "status": "PASS",
+        "detail": "Invalid status values in attendance_events",
+        "count": 0
+      },
+      {
+        "name": "enum:attendance_events.source",
+        "status": "PASS",
+        "detail": "Invalid source values in attendance_events",
+        "count": 0
+      },
+      {
+        "name": "enum:attendance_events.reconciliation_status",
+        "status": "PASS",
+        "detail": "Invalid reconciliation_status values in attendance_events",
+        "count": 0
+      },
+      {
+        "name": "enum:swap_requests.status",
+        "status": "PASS",
+        "detail": "Invalid status values in swap_requests",
+        "count": 0
+      },
+      {
+        "name": "enum:coverage_requirements.day_type",
+        "status": "PASS",
+        "detail": "Invalid day_type values in coverage_requirements",
+        "count": 0
+      },
+      {
+        "name": "leave_date_order",
+        "status": "PASS",
+        "detail": "Leave rows with end_date before start_date",
+        "count": 0
+      },
+      {
+        "name": "shift_datetime_order",
+        "status": "PASS",
+        "detail": "Shifts with end <= start",
+        "count": 0
+      },
+      {
+        "name": "leave_total_days_reconcile",
+        "status": "PASS",
+        "detail": "Leave total_days does not match working days",
+        "count": 0
+      },
+      {
+        "name": "attendance_arithmetic",
+        "status": "PASS",
+        "detail": "Attendance hours/overtime do not reconcile with timestamps",
+        "count": 0
+      },
+      {
+        "name": "weekly_hours_cap",
+        "status": "PASS",
+        "detail": "Employee-weeks above weekly cap + overtime allowance",
+        "count": 0
+      },
+      {
+        "name": "assignment_overlap",
+        "status": "PASS",
+        "detail": "Overlapping active assignments",
+        "count": 0
+      },
+      {
+        "name": "minimum_rest",
+        "status": "PASS",
+        "detail": "Assignments below minimum rest",
+        "count": 0
+      },
+      {
+        "name": "baseline_coverage",
+        "status": "WARN",
+        "detail": "Baseline shifts below required staffing",
+        "count": 126
+      },
+      {
+        "name": "leave_lifecycle",
+        "status": "PASS",
+        "detail": "Leave rows without matching lifecycle events",
+        "count": 0
+      },
+      {
+        "name": "swap_applied_requires_approval",
+        "status": "PASS",
+        "detail": "APPLIED swaps without APPROVED history",
+        "count": 0
+      },
+      {
+        "name": "attendance_one_per_assignment",
+        "status": "PASS",
+        "detail": "Multiple attendance rows for one assignment",
+        "count": 0
+      }
+    ],
+    "failures": 0,
+    "warnings": 1,
+    "row_counts": {
+      "skills": 20,
+      "teams": 100,
+      "employees": 2000,
+      "employee_skills": 5827,
+      "team_managers": 100,
+      "shift_templates": 3,
+      "coverage_requirements": 2700,
+      "holiday_calendar": 5,
+      "leave_policies": 5,
+      "employee_availability": 14000,
+      "leave_requests": 5000,
+      "leave_approval_history": 9049,
+      "shifts": 27000,
+      "shift_assignments": 60072,
+      "attendance_events": 29936,
+      "swap_requests": 1000,
+      "swap_approval_history": 2291
+    },
+    "ground_truth_rows": 0,
+    "status": "PASS"
+  },
+  "anomalies": {
+    "total": 34,
+    "found": 34,
+    "missing": 0,
+    "by_type": {
+      "UNAPPROVED_SWAP": {
+        "total": 6,
+        "found": 6
+      },
+      "DOUBLE_BOOKING": {
+        "total": 6,
+        "found": 6
+      },
+      "LEAVE_OVERLAP": {
+        "total": 6,
+        "found": 6
+      },
+      "OVERTIME_CAP": {
+        "total": 6,
+        "found": 6
+      },
+      "MISSING_SKILL": {
+        "total": 10,
+        "found": 10
+      }
+    },
+    "results": [
+      {
+        "ground_truth_id": "GT-0001",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0002",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0003",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0004",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0005",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0006",
+        "issue_type": "UNAPPROVED_SWAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0007",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0008",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0009",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0010",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0011",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0012",
+        "issue_type": "DOUBLE_BOOKING",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0013",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0014",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0015",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0016",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0017",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0018",
+        "issue_type": "LEAVE_OVERLAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0019",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0020",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0021",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0022",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0023",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0024",
+        "issue_type": "OVERTIME_CAP",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0025",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0026",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0027",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0028",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0029",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0030",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0031",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0032",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0033",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      },
+      {
+        "ground_truth_id": "GT-0034",
+        "issue_type": "MISSING_SKILL",
+        "found": true
+      }
+    ]
+  },
+  "status": "PASS"
+}

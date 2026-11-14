@@ -1,0 +1,6 @@
+policy_id,leave_type,annual_entitlement_days,max_consecutive_days,requires_document_after_days,is_paid,min_notice_days,description,created_at,updated_at
+POL-001,ANNUAL,20.0,15,,True,7,Synthetic policy for annual leave.,2025-01-01 09:00:00,2025-01-01 09:00:00
+POL-002,SICK,10.0,5,2.0,True,0,Synthetic policy for sick leave.,2025-01-01 09:00:00,2025-01-01 09:00:00
+POL-003,UNPAID,30.0,30,,False,3,Synthetic policy for unpaid leave.,2025-01-01 09:00:00,2025-01-01 09:00:00
+POL-004,PARENTAL,90.0,90,1.0,True,30,Synthetic policy for parental leave.,2025-01-01 09:00:00,2025-01-01 09:00:00
+POL-005,BEREAVEMENT,5.0,5,,True,0,Synthetic policy for bereavement leave.,2025-01-01 09:00:00,2025-01-01 09:00:00

@@ -1,0 +1,101 @@
+team_id,name,department,site,cost_center,timezone,is_active,created_at,updated_at
+TEAM-001,Operations Bengaluru 01,Operations,Bengaluru,CC-001,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-002,Customer Care Hyderabad 02,Customer Care,Hyderabad,CC-002,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-003,Logistics Pune 03,Logistics,Pune,CC-003,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-004,Retail Mumbai 04,Retail,Mumbai,CC-004,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-005,Fulfilment Chennai 05,Fulfilment,Chennai,CC-005,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-006,Technical Support Bengaluru 06,Technical Support,Bengaluru,CC-006,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-007,Quality Pune 07,Quality,Pune,CC-007,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-008,Finance Operations Hyderabad 08,Finance Operations,Hyderabad,CC-008,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-009,Operations Bengaluru 09,Operations,Bengaluru,CC-009,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-010,Customer Care Hyderabad 10,Customer Care,Hyderabad,CC-010,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-011,Logistics Pune 11,Logistics,Pune,CC-011,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-012,Retail Mumbai 12,Retail,Mumbai,CC-012,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-013,Fulfilment Chennai 13,Fulfilment,Chennai,CC-013,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-014,Technical Support Bengaluru 14,Technical Support,Bengaluru,CC-014,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-015,Quality Pune 15,Quality,Pune,CC-015,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-016,Finance Operations Hyderabad 16,Finance Operations,Hyderabad,CC-016,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-017,Operations Bengaluru 17,Operations,Bengaluru,CC-017,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-018,Customer Care Hyderabad 18,Customer Care,Hyderabad,CC-018,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-019,Logistics Pune 19,Logistics,Pune,CC-019,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-020,Retail Mumbai 20,Retail,Mumbai,CC-020,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-021,Fulfilment Chennai 21,Fulfilment,Chennai,CC-021,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-022,Technical Support Bengaluru 22,Technical Support,Bengaluru,CC-022,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-023,Quality Pune 23,Quality,Pune,CC-023,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-024,Finance Operations Hyderabad 24,Finance Operations,Hyderabad,CC-024,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-025,Operations Bengaluru 25,Operations,Bengaluru,CC-025,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-026,Customer Care Hyderabad 26,Customer Care,Hyderabad,CC-026,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-027,Logistics Pune 27,Logistics,Pune,CC-027,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-028,Retail Mumbai 28,Retail,Mumbai,CC-028,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-029,Fulfilment Chennai 29,Fulfilment,Chennai,CC-029,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-030,Technical Support Bengaluru 30,Technical Support,Bengaluru,CC-030,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-031,Quality Pune 31,Quality,Pune,CC-031,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-032,Finance Operations Hyderabad 32,Finance Operations,Hyderabad,CC-032,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-033,Operations Bengaluru 33,Operations,Bengaluru,CC-033,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-034,Customer Care Hyderabad 34,Customer Care,Hyderabad,CC-034,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-035,Logistics Pune 35,Logistics,Pune,CC-035,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-036,Retail Mumbai 36,Retail,Mumbai,CC-036,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-037,Fulfilment Chennai 37,Fulfilment,Chennai,CC-037,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-038,Technical Support Bengaluru 38,Technical Support,Bengaluru,CC-038,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-039,Quality Pune 39,Quality,Pune,CC-039,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-040,Finance Operations Hyderabad 40,Finance Operations,Hyderabad,CC-040,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-041,Operations Bengaluru 41,Operations,Bengaluru,CC-041,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-042,Customer Care Hyderabad 42,Customer Care,Hyderabad,CC-042,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-043,Logistics Pune 43,Logistics,Pune,CC-043,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-044,Retail Mumbai 44,Retail,Mumbai,CC-044,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-045,Fulfilment Chennai 45,Fulfilment,Chennai,CC-045,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-046,Technical Support Bengaluru 46,Technical Support,Bengaluru,CC-046,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-047,Quality Pune 47,Quality,Pune,CC-047,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-048,Finance Operations Hyderabad 48,Finance Operations,Hyderabad,CC-048,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-049,Operations Bengaluru 49,Operations,Bengaluru,CC-049,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-050,Customer Care Hyderabad 50,Customer Care,Hyderabad,CC-050,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-051,Logistics Pune 51,Logistics,Pune,CC-051,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-052,Retail Mumbai 52,Retail,Mumbai,CC-052,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-053,Fulfilment Chennai 53,Fulfilment,Chennai,CC-053,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-054,Technical Support Bengaluru 54,Technical Support,Bengaluru,CC-054,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-055,Quality Pune 55,Quality,Pune,CC-055,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-056,Finance Operations Hyderabad 56,Finance Operations,Hyderabad,CC-056,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-057,Operations Bengaluru 57,Operations,Bengaluru,CC-057,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-058,Customer Care Hyderabad 58,Customer Care,Hyderabad,CC-058,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-059,Logistics Pune 59,Logistics,Pune,CC-059,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-060,Retail Mumbai 60,Retail,Mumbai,CC-060,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-061,Fulfilment Chennai 61,Fulfilment,Chennai,CC-061,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-062,Technical Support Bengaluru 62,Technical Support,Bengaluru,CC-062,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-063,Quality Pune 63,Quality,Pune,CC-063,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-064,Finance Operations Hyderabad 64,Finance Operations,Hyderabad,CC-064,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-065,Operations Bengaluru 65,Operations,Bengaluru,CC-065,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-066,Customer Care Hyderabad 66,Customer Care,Hyderabad,CC-066,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-067,Logistics Pune 67,Logistics,Pune,CC-067,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-068,Retail Mumbai 68,Retail,Mumbai,CC-068,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-069,Fulfilment Chennai 69,Fulfilment,Chennai,CC-069,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-070,Technical Support Bengaluru 70,Technical Support,Bengaluru,CC-070,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-071,Quality Pune 71,Quality,Pune,CC-071,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-072,Finance Operations Hyderabad 72,Finance Operations,Hyderabad,CC-072,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-073,Operations Bengaluru 73,Operations,Bengaluru,CC-073,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-074,Customer Care Hyderabad 74,Customer Care,Hyderabad,CC-074,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-075,Logistics Pune 75,Logistics,Pune,CC-075,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-076,Retail Mumbai 76,Retail,Mumbai,CC-076,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-077,Fulfilment Chennai 77,Fulfilment,Chennai,CC-077,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-078,Technical Support Bengaluru 78,Technical Support,Bengaluru,CC-078,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-079,Quality Pune 79,Quality,Pune,CC-079,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-080,Finance Operations Hyderabad 80,Finance Operations,Hyderabad,CC-080,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-081,Operations Bengaluru 81,Operations,Bengaluru,CC-081,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-082,Customer Care Hyderabad 82,Customer Care,Hyderabad,CC-082,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-083,Logistics Pune 83,Logistics,Pune,CC-083,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-084,Retail Mumbai 84,Retail,Mumbai,CC-084,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-085,Fulfilment Chennai 85,Fulfilment,Chennai,CC-085,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-086,Technical Support Bengaluru 86,Technical Support,Bengaluru,CC-086,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-087,Quality Pune 87,Quality,Pune,CC-087,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-088,Finance Operations Hyderabad 88,Finance Operations,Hyderabad,CC-088,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-089,Operations Bengaluru 89,Operations,Bengaluru,CC-089,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-090,Customer Care Hyderabad 90,Customer Care,Hyderabad,CC-090,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-091,Logistics Pune 91,Logistics,Pune,CC-091,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-092,Retail Mumbai 92,Retail,Mumbai,CC-092,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-093,Fulfilment Chennai 93,Fulfilment,Chennai,CC-093,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-094,Technical Support Bengaluru 94,Technical Support,Bengaluru,CC-094,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-095,Quality Pune 95,Quality,Pune,CC-095,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-096,Finance Operations Hyderabad 96,Finance Operations,Hyderabad,CC-096,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-097,Operations Bengaluru 97,Operations,Bengaluru,CC-097,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-098,Customer Care Hyderabad 98,Customer Care,Hyderabad,CC-098,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-099,Logistics Pune 99,Logistics,Pune,CC-099,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00
+TEAM-100,Retail Mumbai 100,Retail,Mumbai,CC-100,Asia/Kolkata,True,2025-01-01 08:00:00,2025-01-01 08:00:00

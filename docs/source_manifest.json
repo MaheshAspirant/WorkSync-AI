@@ -1,0 +1,44 @@
+{
+  "project": "WorkSync AI – Intelligent Workforce Scheduling & Leave Management",
+  "dataset": "Synthetic workforce dataset",
+  "seed": 20261022,
+  "generator": "data_generation/generate_data.py",
+  "generator_version": "1.0.0",
+  "dataset_window": {
+    "start_date": "2026-10-01",
+    "end_date": "2026-12-29",
+    "as_of_date": "2026-11-14"
+  },
+  "identities": "Faker (en_IN) synthetic names; synthetic emails at worksync.ai; no real people",
+  "external_sources": [],
+  "provenance_statement": "No external, public, confidential or personal data was accessed or redistributed. All values are generated locally from a fixed seed. Public holiday names/dates are used only as generic calendar reference; no external dataset files are included.",
+  "license": "Synthetic data generated for this project; no third-party data licence applies to the records.",
+  "software": {
+    "python": "3.13.9 (local verification); container uses python:3.12-slim",
+    "faker": "40.54.0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "ortools": "9.15.6755",
+    "fastapi": "0.162.7",
+    "sqlalchemy": "2.1.8",
+    "react": "18.3.1",
+    "vite": "5.4.8",
+    "tailwindcss": "3.4.13",
+    "recharts": "2.12.7"
+  },
+  "outputs": [
+    "database/seed/full/csv/*.csv",
+    "database/seed/full/json/*.json",
+    "database/seed/full/manifest.json",
+    "database/seed/full/validation_summary.json",
+    "database/seed/full/ground_truth/ground_truth.csv",
+    "database/seed/full/ground_truth/ground_truth.json",
+    "ground_truth/ground_truth.csv",
+    "ground_truth/ground_truth.json",
+    "database/schema.sql",
+    "database/seed_master.sql"
+  ],
+  "retrieval_date": null,
+  "transformations": "None from external data. Internal derived fields: leave working days, attendance hours/overtime, shift required staffing, coverage gaps, anomaly labels.",
+  "fields_discarded": []
+}

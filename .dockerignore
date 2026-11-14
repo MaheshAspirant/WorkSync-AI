@@ -1,0 +1,12 @@
+**/__pycache__
+**/*.pyc
+.venv
+.git
+.pytest_cache
+frontend/node_modules
+frontend/dist
+backend/worksync.db
+backend/test_*.db
+artifacts
+tests/_tmp
+npm-debug.log*

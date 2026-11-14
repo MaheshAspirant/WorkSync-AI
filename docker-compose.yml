@@ -1,0 +1,57 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: worksync-db
+    environment:
+      POSTGRES_DB: worksync
+      POSTGRES_USER: worksync
+      POSTGRES_PASSWORD: worksync
+    ports:
+      - "5432:5432"
+    volumes:
+      - worksync_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U worksync -d worksync"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: worksync-backend
+    environment:
+      ENVIRONMENT: production
+      DATABASE_URL: postgresql+psycopg://worksync:worksync@db:5432/worksync
+      JWT_SECRET: change-this-in-production-please-use-a-long-random-value
+      CORS_ORIGINS: '["http://localhost:3000","http://127.0.0.1:3000"]'
+      SCHEDULER_TIME_LIMIT_SECONDS: "12"
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 90s
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: worksync-ai-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  worksync_pgdata:

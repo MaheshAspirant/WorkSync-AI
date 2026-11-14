@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-11-14",
+  "ground_truth_file": "C:\\Users\\konda\\OneDrive\\Documents\\deepseek-harness\\default-workspace\\WorkSyncAI\\ground_truth\\ground_truth.csv",
+  "note": "Detector output was produced without reading ground-truth labels.",
+  "ground_truth_rows": 34,
+  "target_detections": 34,
+  "all_detections": 160,
+  "detections_by_type": {
+    "COVERAGE_GAP": 126,
+    "DOUBLE_BOOKING": 6,
+    "LEAVE_OVERLAP": 6,
+    "MISSING_SKILL": 10,
+    "OVERTIME_CAP": 6,
+    "UNAPPROVED_SWAP": 6
+  },
+  "overall": {
+    "tp": 34,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "by_type": {
+    "DOUBLE_BOOKING": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "LEAVE_OVERLAP": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "MISSING_SKILL": {
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "OVERTIME_CAP": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "UNAPPROVED_SWAP": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "matched_truth_ids": [
+    "GT-0001",
+    "GT-0002",
+    "GT-0003",
+    "GT-0004",
+    "GT-0005",
+    "GT-0006",
+    "GT-0007",
+    "GT-0008",
+    "GT-0009",
+    "GT-0010",
+    "GT-0011",
+    "GT-0012",
+    "GT-0013",
+    "GT-0014",
+    "GT-0015",
+    "GT-0016",
+    "GT-0017",
+    "GT-0018",
+    "GT-0019",
+    "GT-0020",
+    "GT-0021",
+    "GT-0022",
+    "GT-0023",
+    "GT-0024",
+    "GT-0025",
+    "GT-0026",
+    "GT-0027",
+    "GT-0028",
+    "GT-0029",
+    "GT-0030",
+    "GT-0031",
+    "GT-0032",
+    "GT-0033",
+    "GT-0034"
+  ],
+  "other_findings": {
+    "COVERAGE_GAP": 126
+  }
+}

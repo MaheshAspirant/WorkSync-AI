@@ -1,0 +1,4 @@
+shift_template_id,code,name,start_time,end_time,duration_hours,crosses_midnight,color,created_at,updated_at
+TPL-001,A,Morning,06:00:00,14:00:00,8.0,False,#f59e0b,2025-01-01 09:00:00,2025-01-01 09:00:00
+TPL-002,B,Evening,14:00:00,22:00:00,8.0,False,#3b82f6,2025-01-01 09:00:00,2025-01-01 09:00:00
+TPL-003,C,Night,22:00:00,06:00:00,8.0,True,#6366f1,2025-01-01 09:00:00,2025-01-01 09:00:00

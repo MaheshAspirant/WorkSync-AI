@@ -1,0 +1,222 @@
+[
+  {
+    "team_id": "TEAM-001",
+    "name": "Operations Bengaluru 01",
+    "department": "Operations",
+    "site": "Bengaluru",
+    "cost_center": "CC-001",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-002",
+    "name": "Customer Care Hyderabad 02",
+    "department": "Customer Care",
+    "site": "Hyderabad",
+    "cost_center": "CC-002",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-003",
+    "name": "Logistics Pune 03",
+    "department": "Logistics",
+    "site": "Pune",
+    "cost_center": "CC-003",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-004",
+    "name": "Retail Mumbai 04",
+    "department": "Retail",
+    "site": "Mumbai",
+    "cost_center": "CC-004",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-005",
+    "name": "Fulfilment Chennai 05",
+    "department": "Fulfilment",
+    "site": "Chennai",
+    "cost_center": "CC-005",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-006",
+    "name": "Technical Support Bengaluru 06",
+    "department": "Technical Support",
+    "site": "Bengaluru",
+    "cost_center": "CC-006",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-007",
+    "name": "Quality Pune 07",
+    "department": "Quality",
+    "site": "Pune",
+    "cost_center": "CC-007",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-008",
+    "name": "Finance Operations Hyderabad 08",
+    "department": "Finance Operations",
+    "site": "Hyderabad",
+    "cost_center": "CC-008",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-009",
+    "name": "Operations Bengaluru 09",
+    "department": "Operations",
+    "site": "Bengaluru",
+    "cost_center": "CC-009",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-010",
+    "name": "Customer Care Hyderabad 10",
+    "department": "Customer Care",
+    "site": "Hyderabad",
+    "cost_center": "CC-010",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-011",
+    "name": "Logistics Pune 11",
+    "department": "Logistics",
+    "site": "Pune",
+    "cost_center": "CC-011",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-012",
+    "name": "Retail Mumbai 12",
+    "department": "Retail",
+    "site": "Mumbai",
+    "cost_center": "CC-012",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-013",
+    "name": "Fulfilment Chennai 13",
+    "department": "Fulfilment",
+    "site": "Chennai",
+    "cost_center": "CC-013",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-014",
+    "name": "Technical Support Bengaluru 14",
+    "department": "Technical Support",
+    "site": "Bengaluru",
+    "cost_center": "CC-014",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-015",
+    "name": "Quality Pune 15",
+    "department": "Quality",
+    "site": "Pune",
+    "cost_center": "CC-015",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-016",
+    "name": "Finance Operations Hyderabad 16",
+    "department": "Finance Operations",
+    "site": "Hyderabad",
+    "cost_center": "CC-016",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-017",
+    "name": "Operations Bengaluru 17",
+    "department": "Operations",
+    "site": "Bengaluru",
+    "cost_center": "CC-017",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-018",
+    "name": "Customer Care Hyderabad 18",
+    "department": "Customer Care",
+    "site": "Hyderabad",
+    "cost_center": "CC-018",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-019",
+    "name": "Logistics Pune 19",
+    "department": "Logistics",
+    "site": "Pune",
+    "cost_center": "CC-019",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  },
+  {
+    "team_id": "TEAM-020",
+    "name": "Retail Mumbai 20",
+    "department": "Retail",
+    "site": "Mumbai",
+    "cost_center": "CC-020",
+    "timezone": "Asia/Kolkata",
+    "is_active": true,
+    "created_at": "2025-01-01 08:00:00",
+    "updated_at": "2025-01-01 08:00:00"
+  }
+]

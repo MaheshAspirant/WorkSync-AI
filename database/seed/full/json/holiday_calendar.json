@@ -1,0 +1,52 @@
+[
+  {
+    "holiday_id": "HOL-001",
+    "holiday_date": "2026-10-02",
+    "name": "Gandhi Jayanti",
+    "region": "IN",
+    "is_paid": true,
+    "is_recurring": false,
+    "created_at": "2025-09-01 09:00:00",
+    "updated_at": "2025-09-01 09:00:00"
+  },
+  {
+    "holiday_id": "HOL-002",
+    "holiday_date": "2026-10-20",
+    "name": "Dussehra",
+    "region": "IN",
+    "is_paid": true,
+    "is_recurring": false,
+    "created_at": "2025-09-01 09:00:00",
+    "updated_at": "2025-09-01 09:00:00"
+  },
+  {
+    "holiday_id": "HOL-003",
+    "holiday_date": "2026-11-08",
+    "name": "Diwali",
+    "region": "IN",
+    "is_paid": true,
+    "is_recurring": false,
+    "created_at": "2025-09-01 09:00:00",
+    "updated_at": "2025-09-01 09:00:00"
+  },
+  {
+    "holiday_id": "HOL-004",
+    "holiday_date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
+    "region": "IN",
+    "is_paid": true,
+    "is_recurring": false,
+    "created_at": "2025-09-01 09:00:00",
+    "updated_at": "2025-09-01 09:00:00"
+  },
+  {
+    "holiday_id": "HOL-005",
+    "holiday_date": "2026-12-25",
+    "name": "Christmas Day",
+    "region": "IN",
+    "is_paid": true,
+    "is_recurring": false,
+    "created_at": "2025-09-01 09:00:00",
+    "updated_at": "2025-09-01 09:00:00"
+  }
+]

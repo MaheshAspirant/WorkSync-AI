@@ -1,0 +1,6 @@
+holiday_id,holiday_date,name,region,is_paid,is_recurring,created_at,updated_at
+HOL-001,2026-10-02,Gandhi Jayanti,IN,True,False,2025-09-01 09:00:00,2025-09-01 09:00:00
+HOL-002,2026-10-20,Dussehra,IN,True,False,2025-09-01 09:00:00,2025-09-01 09:00:00
+HOL-003,2026-11-08,Diwali,IN,True,False,2025-09-01 09:00:00,2025-09-01 09:00:00
+HOL-004,2026-11-24,Guru Nanak Jayanti,IN,True,False,2025-09-01 09:00:00,2025-09-01 09:00:00
+HOL-005,2026-12-25,Christmas Day,IN,True,False,2025-09-01 09:00:00,2025-09-01 09:00:00

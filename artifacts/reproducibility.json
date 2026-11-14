@@ -1,0 +1,280 @@
+{
+  "generated_on": "2026-11-14",
+  "seed": 20261022,
+  "scale": "full",
+  "generator_version": "1.0.0",
+  "files_compared": 31,
+  "mismatches": 0,
+  "status": "PASS",
+  "run_a": "C:\\Users\\konda\\OneDrive\\Documents\\deepseek-harness\\default-workspace\\WorkSyncAI\\database\\seed\\full",
+  "run_b": "C:\\Users\\konda\\OneDrive\\Documents\\deepseek-harness\\default-workspace\\WorkSyncAI\\artifacts\\repro_run_b",
+  "row_counts": {
+    "skills": 20,
+    "teams": 100,
+    "employees": 2000,
+    "employee_skills": 5827,
+    "team_managers": 100,
+    "shift_templates": 3,
+    "coverage_requirements": 2700,
+    "holiday_calendar": 5,
+    "leave_policies": 5,
+    "employee_availability": 14000,
+    "leave_requests": 5000,
+    "leave_approval_history": 9049,
+    "shifts": 27000,
+    "shift_assignments": 60098,
+    "attendance_events": 29936,
+    "swap_requests": 1006,
+    "swap_approval_history": 2291
+  },
+  "comparisons": [
+    {
+      "file": "csv/attendance_events.csv",
+      "run_a_sha256": "0c249072809bf498228ed3136f086bd5b88610e908a5a22aebe5faaa7de0606f",
+      "run_b_sha256": "0c249072809bf498228ed3136f086bd5b88610e908a5a22aebe5faaa7de0606f",
+      "row_count_a": 29936,
+      "row_count_b": 29936,
+      "match": true
+    },
+    {
+      "file": "csv/coverage_requirements.csv",
+      "run_a_sha256": "b737e6f5a5fbaa746aaa567ec158f1761664ddda1c388111457c01a907f00323",
+      "run_b_sha256": "b737e6f5a5fbaa746aaa567ec158f1761664ddda1c388111457c01a907f00323",
+      "row_count_a": 2700,
+      "row_count_b": 2700,
+      "match": true
+    },
+    {
+      "file": "csv/employee_availability.csv",
+      "run_a_sha256": "d33865d5c0e7f2af10b33f0467034fec08a509a8dc25ef866c480033e5fa8a36",
+      "run_b_sha256": "d33865d5c0e7f2af10b33f0467034fec08a509a8dc25ef866c480033e5fa8a36",
+      "row_count_a": 14000,
+      "row_count_b": 14000,
+      "match": true
+    },
+    {
+      "file": "csv/employee_skills.csv",
+      "run_a_sha256": "64fa203f9203ec80c23864db8eabfc01bdf90a3d0f0b782b315a2ff656eee487",
+      "run_b_sha256": "64fa203f9203ec80c23864db8eabfc01bdf90a3d0f0b782b315a2ff656eee487",
+      "row_count_a": 5827,
+      "row_count_b": 5827,
+      "match": true
+    },
+    {
+      "file": "csv/employees.csv",
+      "run_a_sha256": "ff7c05587883a2a934ada3da84c3ccb4f2b467450283929f73f3b9874f0a7037",
+      "run_b_sha256": "ff7c05587883a2a934ada3da84c3ccb4f2b467450283929f73f3b9874f0a7037",
+      "row_count_a": 2000,
+      "row_count_b": 2000,
+      "match": true
+    },
+    {
+      "file": "csv/holiday_calendar.csv",
+      "run_a_sha256": "dd62bb1c051ae66b53b179e0020e760c14d82fc641f5059d02ead7ed1fbad05f",
+      "run_b_sha256": "dd62bb1c051ae66b53b179e0020e760c14d82fc641f5059d02ead7ed1fbad05f",
+      "row_count_a": 5,
+      "row_count_b": 5,
+      "match": true
+    },
+    {
+      "file": "csv/leave_approval_history.csv",
+      "run_a_sha256": "2e7b2861424169ea6709006085039dcff10df28e81a12583bb55948fbb961851",
+      "run_b_sha256": "2e7b2861424169ea6709006085039dcff10df28e81a12583bb55948fbb961851",
+      "row_count_a": 9049,
+      "row_count_b": 9049,
+      "match": true
+    },
+    {
+      "file": "csv/leave_policies.csv",
+      "run_a_sha256": "e4d6bd847118338c1daae88319cc7ef70ba8034a081a8d914531589e9eacc825",
+      "run_b_sha256": "e4d6bd847118338c1daae88319cc7ef70ba8034a081a8d914531589e9eacc825",
+      "row_count_a": 5,
+      "row_count_b": 5,
+      "match": true
+    },
+    {
+      "file": "csv/leave_requests.csv",
+      "run_a_sha256": "5cac5d887d34daf65e3e13490ee1a7240eba757146d9f49697c42d84c723b606",
+      "run_b_sha256": "5cac5d887d34daf65e3e13490ee1a7240eba757146d9f49697c42d84c723b606",
+      "row_count_a": 5000,
+      "row_count_b": 5000,
+      "match": true
+    },
+    {
+      "file": "csv/shift_assignments.csv",
+      "run_a_sha256": "77565e1f2fe61992bce858571c0261db65f1b17691623b17031eb3b423fb5d6f",
+      "run_b_sha256": "77565e1f2fe61992bce858571c0261db65f1b17691623b17031eb3b423fb5d6f",
+      "row_count_a": 60098,
+      "row_count_b": 60098,
+      "match": true
+    },
+    {
+      "file": "csv/shift_templates.csv",
+      "run_a_sha256": "331075811c8439e18f72f70a719a8d7205ba4f5f766311879401699fac694dde",
+      "run_b_sha256": "331075811c8439e18f72f70a719a8d7205ba4f5f766311879401699fac694dde",
+      "row_count_a": 3,
+      "row_count_b": 3,
+      "match": true
+    },
+    {
+      "file": "csv/shifts.csv",
+      "run_a_sha256": "8dc590cbc3b2d4e0e52ed168a86d36d0ac9a9d27d1f73faceaf1e6f8053e6926",
+      "run_b_sha256": "8dc590cbc3b2d4e0e52ed168a86d36d0ac9a9d27d1f73faceaf1e6f8053e6926",
+      "row_count_a": 27000,
+      "row_count_b": 27000,
+      "match": true
+    },
+    {
+      "file": "csv/skills.csv",
+      "run_a_sha256": "dba44a995592acfc74c40b3c5db70c56a18fea8cc232165434213a15fd954f45",
+      "run_b_sha256": "dba44a995592acfc74c40b3c5db70c56a18fea8cc232165434213a15fd954f45",
+      "row_count_a": 20,
+      "row_count_b": 20,
+      "match": true
+    },
+    {
+      "file": "csv/swap_approval_history.csv",
+      "run_a_sha256": "a6d2303019bfd1ef42878fdf838943e7e67d5e5b7753b66d7d45f0d0988517c3",
+      "run_b_sha256": "a6d2303019bfd1ef42878fdf838943e7e67d5e5b7753b66d7d45f0d0988517c3",
+      "row_count_a": 2291,
+      "row_count_b": 2291,
+      "match": true
+    },
+    {
+      "file": "csv/swap_requests.csv",
+      "run_a_sha256": "f4ead930849b1c2a84bbccfa85c0254d98a5fc9b164019b4c6ce65986d463af8",
+      "run_b_sha256": "f4ead930849b1c2a84bbccfa85c0254d98a5fc9b164019b4c6ce65986d463af8",
+      "row_count_a": 1006,
+      "row_count_b": 1006,
+      "match": true
+    },
+    {
+      "file": "csv/team_managers.csv",
+      "run_a_sha256": "cc5e649ef45066c9b684ec1ba39f1bd182107c2d06d633b4ec81838a75e686d0",
+      "run_b_sha256": "cc5e649ef45066c9b684ec1ba39f1bd182107c2d06d633b4ec81838a75e686d0",
+      "row_count_a": 100,
+      "row_count_b": 100,
+      "match": true
+    },
+    {
+      "file": "csv/teams.csv",
+      "run_a_sha256": "8a109439d84ed3b25052c10a8b40e1d0018d8ebfde7f08c1b2bfe0208a225a73",
+      "run_b_sha256": "8a109439d84ed3b25052c10a8b40e1d0018d8ebfde7f08c1b2bfe0208a225a73",
+      "row_count_a": 100,
+      "row_count_b": 100,
+      "match": true
+    },
+    {
+      "file": "ground_truth/ground_truth.csv",
+      "run_a_sha256": "78a718a311f3d6af57a373b6cdb3592e2e25b2a7405b3bdb511f62f4356e7b76",
+      "run_b_sha256": "78a718a311f3d6af57a373b6cdb3592e2e25b2a7405b3bdb511f62f4356e7b76",
+      "row_count_a": 34,
+      "row_count_b": 34,
+      "match": true
+    },
+    {
+      "file": "ground_truth/ground_truth.json",
+      "run_a_sha256": "2efced212b3c7044c4ed2f726e869734ac4816f8dc596d53fd0d719fe71cd1d7",
+      "run_b_sha256": "2efced212b3c7044c4ed2f726e869734ac4816f8dc596d53fd0d719fe71cd1d7",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/coverage_requirements.json",
+      "run_a_sha256": "a5d94a56ba0373a3f587cc8342e7339ae19e946687996bb372febba7e0e0afa0",
+      "run_b_sha256": "a5d94a56ba0373a3f587cc8342e7339ae19e946687996bb372febba7e0e0afa0",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/employee_availability.json",
+      "run_a_sha256": "0c9436b040556d6653e1834463c2331504b70c6c831abe28e53a64ce5e53dc02",
+      "run_b_sha256": "0c9436b040556d6653e1834463c2331504b70c6c831abe28e53a64ce5e53dc02",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/employee_skills.json",
+      "run_a_sha256": "a519eccf368914bac20a73f214c771325f774b23637e7ebdc96fd34f6cb6f2a5",
+      "run_b_sha256": "a519eccf368914bac20a73f214c771325f774b23637e7ebdc96fd34f6cb6f2a5",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/employees.json",
+      "run_a_sha256": "e4ceb9a05e47cf1a173d76dcf2dd21ad35936e9c5156ac6b1ed66c6054467726",
+      "run_b_sha256": "e4ceb9a05e47cf1a173d76dcf2dd21ad35936e9c5156ac6b1ed66c6054467726",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/holiday_calendar.json",
+      "run_a_sha256": "869b691af72b36089e4fe4398c1f1820bbb23a993f2488c4ec8915bb62c7dc16",
+      "run_b_sha256": "869b691af72b36089e4fe4398c1f1820bbb23a993f2488c4ec8915bb62c7dc16",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/leave_policies.json",
+      "run_a_sha256": "42c90c71e2ce6c139435040c3812c0cca10b7bbaa8a1958a9dd9aa33b8014a58",
+      "run_b_sha256": "42c90c71e2ce6c139435040c3812c0cca10b7bbaa8a1958a9dd9aa33b8014a58",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/shift_templates.json",
+      "run_a_sha256": "078ebcf153269ee9cb2ea214ea7a28c1b6b5e3464c3814f01dc193e13f68db2e",
+      "run_b_sha256": "078ebcf153269ee9cb2ea214ea7a28c1b6b5e3464c3814f01dc193e13f68db2e",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/skills.json",
+      "run_a_sha256": "2d2f0635f76141c0c2f9cb6e838e364aa3a666ea29d0cb5e104496cbd38c5748",
+      "run_b_sha256": "2d2f0635f76141c0c2f9cb6e838e364aa3a666ea29d0cb5e104496cbd38c5748",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/team_managers.json",
+      "run_a_sha256": "dea8d7b32b4e0ba1847af9cb351b9d2b6628bbfddd6eb17ef88c0e855af67c99",
+      "run_b_sha256": "dea8d7b32b4e0ba1847af9cb351b9d2b6628bbfddd6eb17ef88c0e855af67c99",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "json/teams.json",
+      "run_a_sha256": "6c7be93ac1eca1eb0812e93e8015ba31c74bd9a74e6bf65b9382e3fd08ed4fe5",
+      "run_b_sha256": "6c7be93ac1eca1eb0812e93e8015ba31c74bd9a74e6bf65b9382e3fd08ed4fe5",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "manifest.json",
+      "run_a_sha256": "367358c2ceec8aee733887867dc5fc655531986b8725e0ee4a8f8558017d2b20",
+      "run_b_sha256": "367358c2ceec8aee733887867dc5fc655531986b8725e0ee4a8f8558017d2b20",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    },
+    {
+      "file": "validation_summary.json",
+      "run_a_sha256": "4069637cc6d960b094f8ad98d9e32c45dbe01a2b52bd52839304298746f8ffee",
+      "run_b_sha256": "4069637cc6d960b094f8ad98d9e32c45dbe01a2b52bd52839304298746f8ffee",
+      "row_count_a": null,
+      "row_count_b": null,
+      "match": true
+    }
+  ]
+}

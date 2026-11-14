@@ -1,0 +1,21 @@
+skill_id,name,category,description,is_critical,created_at,updated_at
+SKL-001,Customer Handling,Customer Service,Synthetic customer service skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-002,POS Operation,Retail,Synthetic retail skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-003,Inventory Management,Logistics,Synthetic logistics skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-004,Forklift Operation,Logistics,Synthetic logistics skill used for staffing coverage.,True,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-005,First Aid,Safety,Synthetic safety skill used for staffing coverage.,True,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-006,Fire Safety,Safety,Synthetic safety skill used for staffing coverage.,True,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-007,Quality Inspection,Quality,Synthetic quality skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-008,Data Entry,Systems,Synthetic systems skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-009,Excel Reporting,Systems,Synthetic systems skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-010,SQL Reporting,Systems,Synthetic systems skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-011,Network Support,Technology,Synthetic technology skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-012,Hardware Repair,Technology,Synthetic technology skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-013,Food Safety,Compliance,Synthetic compliance skill used for staffing coverage.,True,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-014,Manual Handling,Safety,Synthetic safety skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-015,Team Leadership,Leadership,Synthetic leadership skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-016,Conflict Resolution,Customer Service,Synthetic customer service skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-017,Hindi Communication,Language,Synthetic language skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-018,English Communication,Language,Synthetic language skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-019,SAP,Systems,Synthetic systems skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00
+SKL-020,Warehouse Management,Logistics,Synthetic logistics skill used for staffing coverage.,False,2025-01-01 09:00:00,2025-01-01 09:00:00

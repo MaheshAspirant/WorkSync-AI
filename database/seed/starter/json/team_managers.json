@@ -1,0 +1,202 @@
+[
+  {
+    "team_manager_id": 1,
+    "team_id": "TEAM-001",
+    "employee_id": "EMP-000001",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 2,
+    "team_id": "TEAM-002",
+    "employee_id": "EMP-000023",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 3,
+    "team_id": "TEAM-003",
+    "employee_id": "EMP-000043",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 4,
+    "team_id": "TEAM-004",
+    "employee_id": "EMP-000064",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 5,
+    "team_id": "TEAM-005",
+    "employee_id": "EMP-000084",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 6,
+    "team_id": "TEAM-006",
+    "employee_id": "EMP-000103",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 7,
+    "team_id": "TEAM-007",
+    "employee_id": "EMP-000121",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 8,
+    "team_id": "TEAM-008",
+    "employee_id": "EMP-000140",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 9,
+    "team_id": "TEAM-009",
+    "employee_id": "EMP-000159",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 10,
+    "team_id": "TEAM-010",
+    "employee_id": "EMP-000178",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 11,
+    "team_id": "TEAM-011",
+    "employee_id": "EMP-000196",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 12,
+    "team_id": "TEAM-012",
+    "employee_id": "EMP-000218",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 13,
+    "team_id": "TEAM-013",
+    "employee_id": "EMP-000239",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 14,
+    "team_id": "TEAM-014",
+    "employee_id": "EMP-000258",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 15,
+    "team_id": "TEAM-015",
+    "employee_id": "EMP-000276",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 16,
+    "team_id": "TEAM-016",
+    "employee_id": "EMP-000295",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 17,
+    "team_id": "TEAM-017",
+    "employee_id": "EMP-000314",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 18,
+    "team_id": "TEAM-018",
+    "employee_id": "EMP-000334",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 19,
+    "team_id": "TEAM-019",
+    "employee_id": "EMP-000356",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  },
+  {
+    "team_manager_id": 20,
+    "team_id": "TEAM-020",
+    "employee_id": "EMP-000378",
+    "is_primary": true,
+    "effective_from": "2025-01-01",
+    "effective_to": null,
+    "created_at": "2025-01-01 09:00:00",
+    "updated_at": "2025-01-01 09:00:00"
+  }
+]
